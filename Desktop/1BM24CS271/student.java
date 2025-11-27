@@ -1,8 +1,5 @@
 import java.util.*;
-public class student{
-    //String usn,name;
-    //int n;
-   
+public class student{ 
 
      double calculate(int c[],int m[],int n)
     {
